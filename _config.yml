@@ -21,7 +21,7 @@
 title: Mi primer blog
 email: jimenezcresposimon@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Este es el sitio correspondiente al blog de Simón Jiménez Crespo."
+  Este es el sitio correspondiente al blog de Simón Jiménez Crespo.
 baseurl: "/myblog" # the subpath of your site, e.g. /blog
 url: "https://simonn22.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: monnchito_
